@@ -16,7 +16,7 @@ public class TaskDz4 {
 
     // ?? + 1? = 69
     // ?2 + 5? = 89
-    // 12 + 75 = ?9
+    // ?2 + 75 = ??
     public static void parserInput(String equation) {
         String[] expr = new String[2];
         expr = equation.split("[+=]");
